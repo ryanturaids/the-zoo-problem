@@ -1,0 +1,52 @@
+/* header formatting */
+header {
+    background-color: rgb(255, 230, 171);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1%;
+}
+nav {
+    background-color: rgb(255, 242, 210);
+    padding: 1%;
+}
+
+/* overall body formatting */
+main {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1%;
+}
+img {
+    width: 200px;
+}
+ul {
+    list-style: circle;
+    background-color: white;
+}
+h2 {
+    background-color: white;
+}
+/* article-specific formatting */
+article{
+    padding: 1%;
+}
+    .bears {
+        background-color: rgb(165, 111, 111);
+    }
+    .giraffes {
+        background-color: rgb(218, 211, 139);
+    }
+    .lions {
+        background-color: rgb(215, 195, 95);
+    }
+    .monkeys {
+        background-color: rgb(212, 164, 212);
+    }
+    .alligators {
+        background-color: rgb(155, 204, 142);
+    }
+
+/* footer formatting */
+footer {
+    background-color: rgb(232, 232, 232);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1%;
+}
